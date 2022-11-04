@@ -3,7 +3,7 @@ General repository for data science society project.
 
 ## 00 Introduction to PyTorch
 
-Please see http://localhost:8888/tree/00_pytorch
+Please see https://github.com/Yuta-Sato-JP/DSS_Project/tree/main/00_pytorch
 
 ## 01 Introduction to Satellite Image Processing
 
